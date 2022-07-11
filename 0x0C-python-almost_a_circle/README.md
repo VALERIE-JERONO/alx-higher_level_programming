@@ -15,7 +15,7 @@ In this project, we review everything about Python:
 * Unittest
 * Read/Write file
 
-We also learn about:
+We also learn  about:
 
 * args and kwargs
 * Serialization/Deserialization
