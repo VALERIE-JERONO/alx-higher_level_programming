@@ -1,1 +1,1 @@
-python is cool
+python,sql.
